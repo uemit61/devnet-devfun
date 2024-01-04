@@ -1,1 +1,1 @@
-"I'am a git genius now!"
+"I'am a git beginner now!"
